@@ -1,12 +1,20 @@
 {
   "name": "ssdportal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["South Sudan","SMS", "Portal"],
+  "keywords": [
+    "South Sudan",
+    "SMS",
+    "Portal"
+  ],
   "author": "David Marko",
   "license": "ISC",
-  "description": "SSDPortal official package"
+  "description": "SSDPortal official package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-marko/ssdportal-node.git"
+  }
 }
